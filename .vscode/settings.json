@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
         "./app"
-    ]
+    ],
+    "DockerRun.DisableDockerrc": true
 }
