@@ -1,0 +1,6 @@
+customer_id;title;lastname;firstname;postal_code;city;email
+1;2;Norris;Chuck;83600;Fréjus;chuck@norris.com
+2;1;Galante;Marie;;;marie-galante@france.fr
+3;2;Barbier;Christophe;75009;Paris;christophe@fake.email
+4;1;;
+5;2;Dupont;Eric;21000;Dijon;eric.dupont@bourgogne.fr

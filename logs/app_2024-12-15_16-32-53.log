@@ -1,0 +1,20 @@
+2024-12-15 16:32:53,689 - INFO - Starting the application...
+2024-12-15 16:32:53,709 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 16:32:53,709 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 16:32:53,714 - INFO -  * Restarting with stat
+2024-12-15 16:32:54,002 - INFO - Starting the application...
+2024-12-15 16:32:54,011 - WARNING -  * Debugger is active!
+2024-12-15 16:32:54,016 - INFO -  * Debugger PIN: 893-834-589
+2024-12-15 16:32:56,794 - WARNING - Ligne invalide dans le fichier clients : {'customer_id': '4', 'title': '1', 'lastname': '', 'firstname': '', 'postal_code': None, 'city': None, 'email': None}
+2024-12-15 16:32:56,794 - INFO - Successfully parsed customers from static/customers.csv.
+2024-12-15 16:32:56,795 - INFO - 127.0.0.1 - - [15/Dec/2024 16:32:56] "GET /api/customers HTTP/1.1" 200 -
+2024-12-15 16:33:02,454 - INFO - 127.0.0.1 - - [15/Dec/2024 16:33:02] "[33mGET /api/customerss HTTP/1.1[0m" 404 -
+2024-12-15 16:33:04,788 - WARNING - Ligne invalide dans le fichier clients : {'customer_id': '4', 'title': '1', 'lastname': '', 'firstname': '', 'postal_code': None, 'city': None, 'email': None}
+2024-12-15 16:33:04,788 - INFO - Successfully parsed customers from static/customers.csv.
+2024-12-15 16:33:04,788 - INFO - 127.0.0.1 - - [15/Dec/2024 16:33:04] "GET /api/customers HTTP/1.1" 200 -
+2024-12-15 16:33:37,627 - WARNING - Ligne invalide dans le fichier clients : {'customer_id': '4', 'title': '1', 'lastname': '', 'firstname': '', 'postal_code': None, 'city': None, 'email': None}
+2024-12-15 16:33:37,627 - INFO - Successfully parsed customers from static/customers.csv.
+2024-12-15 16:33:37,627 - INFO - 127.0.0.1 - - [15/Dec/2024 16:33:37] "GET /api/customers HTTP/1.1" 200 -
+2024-12-15 16:33:57,958 - INFO - Successfully parsed purchases from static/purchases.csv.
+2024-12-15 16:33:57,958 - INFO - 127.0.0.1 - - [15/Dec/2024 16:33:57] "GET /api/purchases HTTP/1.1" 200 -

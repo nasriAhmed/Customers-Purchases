@@ -1,0 +1,5 @@
+2024-12-15 22:16:28,339 - INFO - Starting the application...
+2024-12-15 22:16:28,355 - WARNING -  * Debugger is active!
+2024-12-15 22:16:28,363 - INFO -  * Debugger PIN: 893-834-589
+2024-12-15 22:16:31,155 - INFO - Successfully parsed purchases from static/purchases.csv.
+2024-12-15 22:16:31,155 - INFO - 127.0.0.1 - - [15/Dec/2024 22:16:31] "GET /api/purchases HTTP/1.1" 200 -

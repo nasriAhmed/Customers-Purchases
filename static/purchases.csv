@@ -1,0 +1,6 @@
+purchase_identifier;customer_id;product_id;quantity;price;currency;date
+2/01;2;1221;1;10;"EUR";2017-12-31
+1/01;1;4324;1;10;"EUR";2030-12-31
+3/01;3;75672;1;10;"USD";2050-12-31
+3/02;3;2123;1;10;"EUR";2017-08-01
+2/02;2;3213;1;10;"EUR";2030-12-31

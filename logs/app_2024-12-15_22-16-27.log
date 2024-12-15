@@ -1,0 +1,5 @@
+2024-12-15 22:16:27,904 - INFO - Starting the application...
+2024-12-15 22:16:27,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 22:16:27,946 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 22:16:27,954 - INFO -  * Restarting with stat

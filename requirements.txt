@@ -1,0 +1,13 @@
+Flask==2.3.2
+python-dotenv==1.0.0
+Flask-Testing==0.8.1
+requests==2.31.0
+pandas==2.1.2
+pytest==7.4.2
+pytest-mock==3.11.1
+pytest-cov==4.1.0
+flake8==6.1.0
+mypy==1.4.1
+black==23.9.1
+loguru==0.7.1
+pydantic==1.10.13
