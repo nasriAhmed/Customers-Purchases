@@ -1,0 +1,62 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environnements virtuels
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Outils IDE/éditeur
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Fichiers temporaires ou caches
+*.tmp
+*.bak
+*.old
+*.swp
+*.swo
+*.swn
+*.~lock.*
+*.~*
+
+# Données sensibles
+*.env
+.env.local
+.env.test
+.env.production
+
+# Tests et rapports
+htmlcov/
+.coverage
+*.cover
+.cache/
+nosetests.xml
+coverage.xml
+*.pytest_cache/
+test-results/
+
+# Outils de packaging
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+__pycache__/
